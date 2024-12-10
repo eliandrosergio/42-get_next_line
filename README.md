@@ -18,4 +18,3 @@ O principal desafio deste projeto é entender e implementar o conceito de leitur
    ```bash
    git clone https://github.com/eliandrosergio/get_next_line.git
    cd get_next_line
-   make
