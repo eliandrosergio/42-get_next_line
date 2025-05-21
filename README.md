@@ -1,4 +1,4 @@
-# get_next_line
+# 42-get_next_line
 
 O projeto *get_next_line* tem como objetivo implementar a função `get_next_line`, que lê uma linha de um arquivo de texto e retorna essa linha. A função deve ser capaz de lidar com arquivos grandes e ler os dados de maneira eficiente, linha por linha.
 
